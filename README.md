@@ -4,7 +4,7 @@
 
 ---
 
-## ✨ Features
+## Features
 
 - Searches common locations (`C:\Users`, `C:\ProgramData`, `C:\inetpub`, and all fixed/mapped drives) for KeePass databases
 - Skips noisy/unnecessary locations (Windows, Recycle Bin, System Volume Information)
